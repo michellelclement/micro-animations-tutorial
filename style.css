@@ -30,6 +30,6 @@ body {
   padding: 2rem;
 }
 
-.notification-svg, messages-svg {
+.notification-svg, .messages-svg {
   overflow: visible;
 }
